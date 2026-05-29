@@ -1,0 +1,378 @@
+{
+  "notes": [
+    {
+      "id": "note_20260526_230022_0",
+      "title": "任务 2: 财务表现与市场动态",
+      "type": "task_state",
+      "tags": [
+        "deep_research",
+        "task_2"
+      ],
+      "created_at": "2026-05-26T23:00:22.389637"
+    },
+    {
+      "id": "note_20260526_230029_1",
+      "title": "任务 1: 核心业务版图梳理",
+      "type": "task_state",
+      "tags": [
+        "deep_research",
+        "task_1"
+      ],
+      "created_at": "2026-05-26T23:00:29.125313"
+    },
+    {
+      "id": "note_20260526_230044_2",
+      "title": "任务 3: 战略转型与技术前瞻",
+      "type": "task_state",
+      "tags": [
+        "deep_research",
+        "task_3"
+      ],
+      "created_at": "2026-05-26T23:00:44.747157"
+    },
+    {
+      "id": "note_20260526_230825_3",
+      "title": "任务 1: 核心业务版图与战略",
+      "type": "task_state",
+      "tags": [
+        "deep_research",
+        "task_1"
+      ],
+      "created_at": "2026-05-26T23:08:25.695316"
+    },
+    {
+      "id": "note_20260526_230825_4",
+      "title": "任务 2: 组织架构与治理变革",
+      "type": "task_state",
+      "tags": [
+        "deep_research",
+        "task_2"
+      ],
+      "created_at": "2026-05-26T23:08:25.722377"
+    },
+    {
+      "id": "note_20260526_230825_5",
+      "title": "任务 3: 财务表现与竞争格局",
+      "type": "task_state",
+      "tags": [
+        "deep_research",
+        "task_3"
+      ],
+      "created_at": "2026-05-26T23:08:25.747689"
+    },
+    {
+      "id": "note_20260526_230825_6",
+      "title": "任务 4: 技术创新与全球化路径",
+      "type": "task_state",
+      "tags": [
+        "deep_research",
+        "task_4"
+      ],
+      "created_at": "2026-05-26T23:08:25.772603"
+    },
+    {
+      "id": "note_20260526_231007_7",
+      "title": "研究报告：探索阿里巴巴集团",
+      "type": "conclusion",
+      "tags": [
+        "deep_research",
+        "report"
+      ],
+      "created_at": "2026-05-26T23:10:07.098532"
+    },
+    {
+      "id": "note_20260526_231612_8",
+      "title": "任务 1: 多模态模型技术演进",
+      "type": "task_state",
+      "tags": [
+        "deep_research",
+        "task_1"
+      ],
+      "created_at": "2026-05-26T23:16:12.592920"
+    },
+    {
+      "id": "note_20260526_231612_9",
+      "title": "任务 2: 多模态行业应用落地",
+      "type": "task_state",
+      "tags": [
+        "deep_research",
+        "task_2"
+      ],
+      "created_at": "2026-05-26T23:16:12.615894"
+    },
+    {
+      "id": "note_20260526_231612_10",
+      "title": "任务 3: 多模态安全与伦理治理",
+      "type": "task_state",
+      "tags": [
+        "deep_research",
+        "task_3"
+      ],
+      "created_at": "2026-05-26T23:16:12.638943"
+    },
+    {
+      "id": "note_20260526_231612_11",
+      "title": "任务 4: 多模态算力与推理优化",
+      "type": "task_state",
+      "tags": [
+        "deep_research",
+        "task_4"
+      ],
+      "created_at": "2026-05-26T23:16:12.661910"
+    },
+    {
+      "id": "note_20260527_092923_12",
+      "title": "核心业务版图解析",
+      "type": "task_state",
+      "tags": [
+        "deep_research",
+        "task_1"
+      ],
+      "created_at": "2026-05-27T09:29:23.947514"
+    },
+    {
+      "id": "note_20260527_092923_13",
+      "title": "财务表现与行业竞争",
+      "type": "task_state",
+      "tags": [
+        "deep_research",
+        "task_2"
+      ],
+      "created_at": "2026-05-27T09:29:23.971152"
+    },
+    {
+      "id": "note_20260527_092923_14",
+      "title": "战略重组与技术前瞻",
+      "type": "task_state",
+      "tags": [
+        "deep_research",
+        "task_3"
+      ],
+      "created_at": "2026-05-27T09:29:23.991155"
+    },
+    {
+      "id": "note_20260527_092955_15",
+      "title": "任务 1: 战略演进与业务全景",
+      "type": "task_state",
+      "tags": [
+        "deep_research",
+        "task_1"
+      ],
+      "created_at": "2026-05-27T09:29:55.701406"
+    },
+    {
+      "id": "note_20260527_092955_16",
+      "title": "任务 2: 组织变革与治理机制",
+      "type": "task_state",
+      "tags": [
+        "deep_research",
+        "task_2"
+      ],
+      "created_at": "2026-05-27T09:29:55.729948"
+    },
+    {
+      "id": "note_20260527_092955_17",
+      "title": "任务 3: 财务表现与竞争格局",
+      "type": "task_state",
+      "tags": [
+        "deep_research",
+        "task_3"
+      ],
+      "created_at": "2026-05-27T09:29:55.755984"
+    },
+    {
+      "id": "note_20260527_092955_18",
+      "title": "任务 4: 合规监管与ESG实践",
+      "type": "task_state",
+      "tags": [
+        "deep_research",
+        "task_4"
+      ],
+      "created_at": "2026-05-27T09:29:55.784073"
+    },
+    {
+      "id": "note_20260527_093039_19",
+      "title": "任务 1: 基础背景梳理 - 关键发现汇总",
+      "type": "task_state",
+      "tags": [
+        "deep_research",
+        "task_1"
+      ],
+      "created_at": "2026-05-27T09:30:39.080771"
+    },
+    {
+      "id": "note_20260527_093149_20",
+      "title": "研究报告：探索阿里集团",
+      "type": "conclusion",
+      "tags": [
+        "deep_research",
+        "report"
+      ],
+      "created_at": "2026-05-27T09:31:49.771986"
+    },
+    {
+      "id": "note_20260527_093858_21",
+      "title": "任务 1: 产品概览与核心功能",
+      "type": "task_state",
+      "tags": [
+        "deep_research",
+        "task_1"
+      ],
+      "created_at": "2026-05-27T09:38:58.521712"
+    },
+    {
+      "id": "note_20260527_093858_22",
+      "title": "任务 2: 技术底座与性能评测",
+      "type": "task_state",
+      "tags": [
+        "deep_research",
+        "task_2"
+      ],
+      "created_at": "2026-05-27T09:38:58.551458"
+    },
+    {
+      "id": "note_20260527_093858_23",
+      "title": "任务 3: 应用场景与生态集成",
+      "type": "task_state",
+      "tags": [
+        "deep_research",
+        "task_3"
+      ],
+      "created_at": "2026-05-27T09:38:58.574463"
+    },
+    {
+      "id": "note_20260527_093858_24",
+      "title": "任务 4: 市场反馈与商业化前景",
+      "type": "task_state",
+      "tags": [
+        "deep_research",
+        "task_4"
+      ],
+      "created_at": "2026-05-27T09:38:58.599514"
+    },
+    {
+      "id": "note_20260527_093955_25",
+      "title": "研究报告：探索豆包ai",
+      "type": "conclusion",
+      "tags": [
+        "deep_research",
+        "report"
+      ],
+      "created_at": "2026-05-27T09:39:55.119393"
+    },
+    {
+      "id": "note_20260527_095207_26",
+      "title": "任务 1: 产品概览与市场定位",
+      "type": "task_state",
+      "tags": [
+        "deep_research",
+        "task_1"
+      ],
+      "created_at": "2026-05-27T09:52:07.154657"
+    },
+    {
+      "id": "note_20260527_095207_27",
+      "title": "任务 2: 核心技术能力与评测",
+      "type": "task_state",
+      "tags": [
+        "deep_research",
+        "task_2"
+      ],
+      "created_at": "2026-05-27T09:52:07.176591"
+    },
+    {
+      "id": "note_20260527_095207_28",
+      "title": "任务 3: 应用场景与用户体验",
+      "type": "task_state",
+      "tags": [
+        "deep_research",
+        "task_3"
+      ],
+      "created_at": "2026-05-27T09:52:07.196015"
+    },
+    {
+      "id": "note_20260527_095207_29",
+      "title": "任务 4: 竞品对比与发展趋势",
+      "type": "task_state",
+      "tags": [
+        "deep_research",
+        "task_4"
+      ],
+      "created_at": "2026-05-27T09:52:07.215064"
+    },
+    {
+      "id": "note_20260527_095255_30",
+      "title": "研究报告：探索豆包ai",
+      "type": "conclusion",
+      "tags": [
+        "deep_research",
+        "report"
+      ],
+      "created_at": "2026-05-27T09:52:55.203035"
+    },
+    {
+      "id": "note_20260527_095632_31",
+      "title": "任务 1: 历史沿革与关键节点",
+      "type": "task_state",
+      "tags": [
+        "deep_research",
+        "task_1"
+      ],
+      "created_at": "2026-05-27T09:56:32.505754"
+    },
+    {
+      "id": "note_20260527_095632_32",
+      "title": "任务 2: 核心业务版图与生态",
+      "type": "task_state",
+      "tags": [
+        "deep_research",
+        "task_2"
+      ],
+      "created_at": "2026-05-27T09:56:32.535058"
+    },
+    {
+      "id": "note_20260527_095632_33",
+      "title": "任务 3: 组织架构与管理文化",
+      "type": "task_state",
+      "tags": [
+        "deep_research",
+        "task_3"
+      ],
+      "created_at": "2026-05-27T09:56:32.558318"
+    },
+    {
+      "id": "note_20260527_095632_34",
+      "title": "任务 4: 财务表现与市场地位",
+      "type": "task_state",
+      "tags": [
+        "deep_research",
+        "task_4"
+      ],
+      "created_at": "2026-05-27T09:56:32.582541"
+    },
+    {
+      "id": "note_20260527_095632_35",
+      "title": "任务 5: 前沿战略与未来布局",
+      "type": "task_state",
+      "tags": [
+        "deep_research",
+        "task_5"
+      ],
+      "created_at": "2026-05-27T09:56:32.608541"
+    },
+    {
+      "id": "note_20260527_095822_36",
+      "title": "研究报告：探索腾讯集团",
+      "type": "conclusion",
+      "tags": [
+        "deep_research",
+        "report"
+      ],
+      "created_at": "2026-05-27T09:58:22.737960"
+    }
+  ],
+  "metadata": {
+    "created_at": "2026-05-13T18:59:21.635707",
+    "total_notes": 37
+  }
+}

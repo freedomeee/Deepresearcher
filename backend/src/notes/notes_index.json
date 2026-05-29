@@ -1,0 +1,327 @@
+{
+  "notes": [
+    {
+      "id": "note_20260526_220632_0",
+      "title": "研究主题缺失",
+      "type": "blocker",
+      "tags": [
+        "deep_research"
+      ],
+      "created_at": "2026-05-26T22:06:32.782226"
+    },
+    {
+      "id": "note_20260526_220703_1",
+      "title": "任务 1: 基础背景梳理",
+      "type": "task_state",
+      "tags": [
+        "deep_research",
+        "task_1"
+      ],
+      "created_at": "2026-05-26T22:07:03.316763"
+    },
+    {
+      "id": "note_20260526_220737_2",
+      "title": "任务 1: 产品定位与基本概况",
+      "type": "task_state",
+      "tags": [
+        "deep_research",
+        "task_1"
+      ],
+      "created_at": "2026-05-26T22:07:37.554308"
+    },
+    {
+      "id": "note_20260526_220737_3",
+      "title": "任务 2: 核心技术能力与模型基座",
+      "type": "task_state",
+      "tags": [
+        "deep_research",
+        "task_2"
+      ],
+      "created_at": "2026-05-26T22:07:37.578314"
+    },
+    {
+      "id": "note_20260526_220737_4",
+      "title": "任务 3: 市场竞争与用户反馈",
+      "type": "task_state",
+      "tags": [
+        "deep_research",
+        "task_3"
+      ],
+      "created_at": "2026-05-26T22:07:37.598253"
+    },
+    {
+      "id": "note_20260526_220737_5",
+      "title": "任务 4: 非科技领域含义排查",
+      "type": "task_state",
+      "tags": [
+        "deep_research",
+        "task_4"
+      ],
+      "created_at": "2026-05-26T22:07:37.618737"
+    },
+    {
+      "id": "note_20260526_220908_6",
+      "title": "研究报告：豆包是什么",
+      "type": "conclusion",
+      "tags": [
+        "deep_research",
+        "report"
+      ],
+      "created_at": "2026-05-26T22:09:08.855742"
+    },
+    {
+      "id": "note_20260526_221541_7",
+      "title": "任务 1: 产品概览与背景定位",
+      "type": "task_state",
+      "tags": [
+        "deep_research",
+        "task_1"
+      ],
+      "created_at": "2026-05-26T22:15:41.872016"
+    },
+    {
+      "id": "note_20260526_221541_8",
+      "title": "任务 2: 核心技术架构与能力",
+      "type": "task_state",
+      "tags": [
+        "deep_research",
+        "task_2"
+      ],
+      "created_at": "2026-05-26T22:15:41.897929"
+    },
+    {
+      "id": "note_20260526_221541_9",
+      "title": "任务 3: 应用场景与生态布局",
+      "type": "task_state",
+      "tags": [
+        "deep_research",
+        "task_3"
+      ],
+      "created_at": "2026-05-26T22:15:41.921903"
+    },
+    {
+      "id": "note_20260526_221541_10",
+      "title": "任务 4: 市场竞争与用户评价",
+      "type": "task_state",
+      "tags": [
+        "deep_research",
+        "task_4"
+      ],
+      "created_at": "2026-05-26T22:15:41.946126"
+    },
+    {
+      "id": "note_20260526_221729_11",
+      "title": "研究报告：探索豆包AI是什么",
+      "type": "conclusion",
+      "tags": [
+        "deep_research",
+        "report"
+      ],
+      "created_at": "2026-05-26T22:17:29.965831"
+    },
+    {
+      "id": "note_20260526_222530_12",
+      "title": "任务 1: 产品背景与定位",
+      "type": "task_state",
+      "tags": [
+        "deep_research",
+        "task_1"
+      ],
+      "created_at": "2026-05-26T22:25:30.451946"
+    },
+    {
+      "id": "note_20260526_222530_13",
+      "title": "任务 2: 核心技术能力解析",
+      "type": "task_state",
+      "tags": [
+        "deep_research",
+        "task_2"
+      ],
+      "created_at": "2026-05-26T22:25:30.478193"
+    },
+    {
+      "id": "note_20260526_222530_14",
+      "title": "任务 3: 功能特色与应用场景",
+      "type": "task_state",
+      "tags": [
+        "deep_research",
+        "task_3"
+      ],
+      "created_at": "2026-05-26T22:25:30.503775"
+    },
+    {
+      "id": "note_20260526_222530_15",
+      "title": "任务 4: 市场表现与竞品对比",
+      "type": "task_state",
+      "tags": [
+        "deep_research",
+        "task_4"
+      ],
+      "created_at": "2026-05-26T22:25:30.529609"
+    },
+    {
+      "id": "note_20260526_222830_16",
+      "title": "研究报告：探索豆包AI是什么",
+      "type": "conclusion",
+      "tags": [
+        "deep_research",
+        "report"
+      ],
+      "created_at": "2026-05-26T22:28:30.292709"
+    },
+    {
+      "id": "note_20260526_222903_17",
+      "title": "任务 1: 核心业务版图解析",
+      "type": "task_state",
+      "tags": [
+        "deep_research",
+        "task_1"
+      ],
+      "created_at": "2026-05-26T22:29:03.083592"
+    },
+    {
+      "id": "note_20260526_222903_18",
+      "title": "任务 2: 发展历程与组织变革",
+      "type": "task_state",
+      "tags": [
+        "deep_research",
+        "task_2"
+      ],
+      "created_at": "2026-05-26T22:29:03.111857"
+    },
+    {
+      "id": "note_20260526_222903_19",
+      "title": "任务 3: 财务表现与竞争格局",
+      "type": "task_state",
+      "tags": [
+        "deep_research",
+        "task_3"
+      ],
+      "created_at": "2026-05-26T22:29:03.137751"
+    },
+    {
+      "id": "note_20260526_222903_20",
+      "title": "任务 4: 战略布局与技术前瞻",
+      "type": "task_state",
+      "tags": [
+        "deep_research",
+        "task_4"
+      ],
+      "created_at": "2026-05-26T22:29:03.164918"
+    },
+    {
+      "id": "note_20260526_223000_21",
+      "title": "研究报告：探索阿里巴巴集团",
+      "type": "conclusion",
+      "tags": [
+        "deep_research",
+        "report"
+      ],
+      "created_at": "2026-05-26T22:30:00.140156"
+    },
+    {
+      "id": "note_20260526_223346_22",
+      "title": "任务 1: 阿里发展历程",
+      "type": "task_state",
+      "tags": [
+        "deep_research",
+        "task_1"
+      ],
+      "created_at": "2026-05-26T22:33:46.186708"
+    },
+    {
+      "id": "note_20260526_223346_23",
+      "title": "任务 2: 核心业务与生态",
+      "type": "task_state",
+      "tags": [
+        "deep_research",
+        "task_2"
+      ],
+      "created_at": "2026-05-26T22:33:46.213926"
+    },
+    {
+      "id": "note_20260526_223346_24",
+      "title": "任务 3: 财务数据与市场地位",
+      "type": "task_state",
+      "tags": [
+        "deep_research",
+        "task_3"
+      ],
+      "created_at": "2026-05-26T22:33:46.238375"
+    },
+    {
+      "id": "note_20260526_223346_25",
+      "title": "任务 4: 战略转型与未来布局",
+      "type": "task_state",
+      "tags": [
+        "deep_research",
+        "task_4"
+      ],
+      "created_at": "2026-05-26T22:33:46.263792"
+    },
+    {
+      "id": "note_20260526_223834_26",
+      "title": "研究报告：探索阿里巴巴集团",
+      "type": "conclusion",
+      "tags": [
+        "deep_research",
+        "report"
+      ],
+      "created_at": "2026-05-26T22:38:34.714502"
+    },
+    {
+      "id": "note_20260526_223914_27",
+      "title": "任务 1: 核心业务与战略",
+      "type": "task_state",
+      "tags": [
+        "deep_research",
+        "task_1"
+      ],
+      "created_at": "2026-05-26T22:39:14.116287"
+    },
+    {
+      "id": "note_20260526_223914_28",
+      "title": "任务 2: 组织架构与治理",
+      "type": "task_state",
+      "tags": [
+        "deep_research",
+        "task_2"
+      ],
+      "created_at": "2026-05-26T22:39:14.142553"
+    },
+    {
+      "id": "note_20260526_223914_29",
+      "title": "任务 3: 财务表现与资本",
+      "type": "task_state",
+      "tags": [
+        "deep_research",
+        "task_3"
+      ],
+      "created_at": "2026-05-26T22:39:14.162215"
+    },
+    {
+      "id": "note_20260526_223914_30",
+      "title": "任务 4: 竞争格局与挑战",
+      "type": "task_state",
+      "tags": [
+        "deep_research",
+        "task_4"
+      ],
+      "created_at": "2026-05-26T22:39:14.181609"
+    },
+    {
+      "id": "note_20260526_224041_31",
+      "title": "研究报告：探索阿里巴巴集团",
+      "type": "conclusion",
+      "tags": [
+        "deep_research",
+        "report"
+      ],
+      "created_at": "2026-05-26T22:40:41.358570"
+    }
+  ],
+  "metadata": {
+    "created_at": "2026-05-26T21:41:10.678372",
+    "total_notes": 32
+  }
+}
